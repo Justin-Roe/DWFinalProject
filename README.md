@@ -8,7 +8,7 @@ The movie landscape has changed dramatically over the past decade. With the rise
 
 The README.md within the "Codes" folder contains the Python files made when developing this project as well as an explaination as to what what each python file accomplishes.
 
-The README.md in the "Data" folder contains the data dictionary as well as the original Kaggle set used and the website that the additional information was scraped from.
+The README.md in the "Data" folder contains the data dictionary as well as the original Kaggle dataset used and the website that the additional information was scraped from.
 
 Below is a link to the project proposal. This outlines the motivation behind the project as well as the proposed analysis of the data.  
 [📄 Download the Project Proposal (PDF)](https://github.com/user-attachments/files/20030963/Project.Proposal.Data.Wrangling.pdf)
