@@ -22,4 +22,4 @@ The additional information gathered came from IMDbs Top 250 Movies list. Each mo
 [🔗 IMDb Top 250 Movies](https://www.imdb.com/chart/top/?ref_=nv_mv_250)
 
 The two dataframes were then merged on "Movie Title" and "year". The csv below is the merged dataframe that was used to start the code for all analysis questions.   
-[📄 View the Merged CSV](https://github.com/user-attachments/files/20137291/juroe_project_proposal.csv)
+[📄 Download the Merged CSV](https://github.com/user-attachments/files/20137291/juroe_project_proposal.csv)
