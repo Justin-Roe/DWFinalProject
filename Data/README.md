@@ -21,5 +21,5 @@ The dataset chosen from Kaggle named "Movie Industry" by Daniel Grijalva has ext
 The additional information gathered came from IMDbs Top 250 Movies list. Each movie's link was crawled through and the amount of awards the movie won and was nominated for were scraped and added to a dataframe with the movie's name and release year.  
 [🔗 IMDb Top 250 Movies](https://www.imdb.com/chart/top/?ref_=nv_mv_250)
 
-The two dataframes were then merged on "Movie Title" and "year". The csv below is the merged dataframe that was used to start the code for all analysis questions. 
+The two dataframes were then merged on "Movie Title" and "year". The csv below is the merged dataframe that was used to start the code for all analysis questions.   
 [📄 View the Merged CSV](https://github.com/user-attachments/files/20137291/juroe_project_proposal.csv)
