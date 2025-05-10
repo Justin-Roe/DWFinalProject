@@ -14,6 +14,7 @@ Below is a link to the project proposal. This outlines the motivation behind the
 [📄 Download the Project Proposal (PDF)](https://github.com/user-attachments/files/20030963/Project.Proposal.Data.Wrangling.pdf)
 
 Below is a link to the final project report. This explains the results gathered from the data analysis.  
-[📄 Download the Final Project Report (PDF)](https://github.com/user-attachments/files/20134787/Data.Wrangling.Final.Project.Report.pdf)
+[📄 Download the Final Project Report (PDF)](https://github.com/user-attachments/files/20137159/Data.Wrangling.Final.Project.Report.pdf)
+
 
 
