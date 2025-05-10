@@ -12,3 +12,7 @@ The README.md in the "Data" folder contains the data dictionary as well as the o
 
 Below is a link to the project proposal. This outlines the motivation behind the project as well as the proposed analysis of the data.  
 [📄 Download the Project Proposal (PDF)](https://github.com/user-attachments/files/20030963/Project.Proposal.Data.Wrangling.pdf)
+
+Below is a link to the final project report. This explains the results gathered from the data analysis.  
+[📄 Download the Final Project Report (PDF)](https://github.com/user-attachments/files/20134067/Data.Wrangling.Final.Project.Report.pdf)
+
